@@ -30,6 +30,8 @@ function renderRecent() {
 }
 renderRecent()
 
+
+
 let featureProduct_listEl = document.querySelector(".featureProduct_list")
 let featureProductListHTML = ''
 
@@ -106,7 +108,6 @@ function renderImageSlider() {
 }
 
 setInterval(renderImageSlider, 5000)
-
 
 let bestofElctronic_product_itemEl = document.querySelector(".bestofElctronic_product_item")
 let bestofElectornicProduct_html = ""

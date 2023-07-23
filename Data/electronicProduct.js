@@ -29,9 +29,9 @@ export const electronicsProductData = [
     },
     {
         img : "https://rukminim1.flixcart.com/image/400/400/ks7tuvk0/gimbal/v/z/7/0-43-om4-se-dji-original-imag5u6rgsdh6k4g.jpeg?q=70",
-        productName : "Monitor",
+        productName : "Tripod",
         discount : "From ₹8279",
-        brand : "DELL"
+        brand : "Dji"
     },
     {
         img : "https://rukminim1.flixcart.com/image/400/400/kingqkw0-0/hair-straightener/s/v/x/hp8302-06-philips-original-imaf9jzzzurgqykt.jpeg?q=70",
